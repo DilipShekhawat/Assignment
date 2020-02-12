@@ -1,0 +1,5 @@
+[23-May-2019 07:03:01 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/appone/public_html/musicApp/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[23-May-2019 07:03:07 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/appone/public_html/musicApp/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[23-May-2019 07:03:16 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/appone/public_html/musicApp/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[23-May-2019 07:04:17 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/appone/public_html/musicApp/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[01-Aug-2019 06:36:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appone/public_html/musicApp/application/controllers/admin/Genre.php on line 71
