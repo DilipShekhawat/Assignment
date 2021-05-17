@@ -8,7 +8,7 @@ class Api extends CI_Controller {
         parent::__construct();
         $this->load->library('session');
         $this->load->library(array('form_validation','firebase'));
-        $this->load->model('user');
+        $this->load->model('user'); //print_r();
 
         /* cache control */
 
